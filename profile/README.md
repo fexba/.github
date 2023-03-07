@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/profile/code.gif">
+  <img src="https://github.com/fexba/.github/blob/main/profile/code.gif">
 </p>
 
 本仓库为前端面试题库，包含不限于 Vue 面试题，React 面试题，JS 面试题，HTTP 面试题，工程化面试题，CSS 面试题，算法面试题，大厂面试题，高频面试题，如果收集的文章侵犯您的利益，请与我们联系！
